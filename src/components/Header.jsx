@@ -98,7 +98,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-                    <Link to={`https://www.linkedin.com/in/tushar-sharma-8a7277237/`}><img src={profilePic}  alt="misc" /></Link>
+                    <Link to={`https://www.linkedin.com/in/tushar-sharma-8a7277237/`} target="_blank"><img src={profilePic}  alt="misc" /></Link>
                 </div>
             </div>
         </div>
